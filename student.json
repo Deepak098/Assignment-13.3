@@ -1,0 +1,14 @@
+{
+    "name":"Deepak",
+    "age": 26,
+    "weight": 75,
+    "height": 5.7,
+    "friends": [
+        "Karan", "Aazad", "Denil", "Harsh"
+    ],
+    "college":{
+        "Name":"Maharana Partap",
+        "city":"Amb Himachal pradesh",
+        "Pincode": 177205
+    }
+}
